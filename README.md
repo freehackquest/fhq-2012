@@ -1,4 +1,4 @@
-fhq-2011
+fhq-2012
 ========
 
-platform for fhq-2011 (first version, and it's not work now)
+platform for ctf "fhq-2012" (first version 2011-2012, and it's not work now)
